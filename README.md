@@ -64,4 +64,4 @@ https://ember-and-oak-kohl.vercel.app/
 
 ## Author
 
-Maverick
+Akshant Lohan
